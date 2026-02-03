@@ -17,13 +17,13 @@ Hi, I’m Precious — a Data Analyst focused on helping product-led fintech and
 
 I work on questions like:
 
-Where users drop off (funnels) and why
+ Where users drop off (funnels) and why
 
-What drives repeat usage (cohorts/retention)
+ What drives repeat usage (cohorts/retention)
 
-Which segments behave differently (segmentation)
+ Which segments behave differently (segmentation)
 
-How product changes impact outcomes (experiments/measurement)
+ How product changes impact outcomes (experiments/measurement)
 
 My edge is combining rigorous analysis with clear storytelling - because the best insights are worthless if they don't drive action.
 
