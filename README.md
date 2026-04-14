@@ -35,11 +35,11 @@ When I'm not working with data, I enjoy travelling, reading, cooking and dancing
 ## 🔭 What I'm Currently Working On 
 
 - **Project A:** [Building a sales forecasting model in Python.]  
-- **Project B:** [ Creating an interactive marketing dashboard in Power BI.]
+- **Project B:** [Creating an interactive marketing dashboard in Power BI.]
 
 ## 🌱 Currently Learning 
 
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- [DBT.]
 
 ## 🛠️ Technical Skillset
 
